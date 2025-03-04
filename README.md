@@ -35,7 +35,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=annany2002&show_icons=true&locale=en&theme=radical" alt="Annany GitHub Stats" width="45%" height="200px" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=annany2002&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+![Image](https://github.com/user-attachments/assets/4ae8519e-b57b-4faf-a0bc-45e678eaa64c)
 
 ![snake game](https://github.com/user-attachments/assets/c1d068d4-72a8-4fa6-8bc5-ed0f6fe653f8)
 
