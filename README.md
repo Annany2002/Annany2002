@@ -59,4 +59,4 @@
 
 ![snake game](https://github.com/user-attachments/assets/c1d068d4-72a8-4fa6-8bc5-ed0f6fe653f8)
 
-[![Annany's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Annany2002&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Annany's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Annany2002&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
