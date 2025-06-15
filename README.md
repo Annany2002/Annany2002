@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Annany2002&theme=monokai" alt="annany2002" /></a> </p>
 
-- 🌱 I’m currently learning **how to become a 10x dev**
+- 🌱 I’m currently working on **[Nebula](https://github.com/Annany2002/nebula-backend)** and **[Velox DB](https://github.com/Annany2002/velox-db)**
 
-- 💬 Ask me about **next js, typescript, express, postgres, docker, golang, c++**
+- 💬 Ask me about **next js, typescript, express, postgres, docker, golang, c++, sqlite**
 
 - 📫 How to reach me **shazam6060@gmail.com**
 
