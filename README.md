@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Annany2002&theme=monokai" alt="annany2002" /></a> </p>
 
-- 🌱 I’m currently working on **[Nebula](https://github.com/Annany2002/nebula-backend)** , **[Velox DB](https://github.com/Annany2002/velox-db)** and **[Wisp](https://github.com/Annany2002/wisp)**
+- 🌱 I’m currently working on **[Nebula](https://github.com/Annany2002/nebula-backend)** , **[Velox DB](https://github.com/Annany2002/velox-db)** and **[VectorSync](https://github.com/Annany2002/VectorSync)**
 
 - 💬 Ask me about **next js, typescript, express, postgres, docker, golang, c++, sqlite**
 
