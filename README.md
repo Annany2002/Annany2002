@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Annany Vishwakarma</h1>
-<h3 align="center">A passionate full stack developer from India, and a Junior Software Developer at <a href="https://definable.ai">definable.ai</a></h3>
+<h3 align="center">A passionate full stack developer from India, and a Junior Software Engineer at <a href="https://definable.ai">definable.ai</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annany2002&label=Profile%20views&color=0e75b6&style=flat" alt="annany2002" /> </p>
 
