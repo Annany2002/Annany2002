@@ -23,21 +23,8 @@ with a strong focus on performance, reliability, and real-world impact.
 - **VectorSync** – Real-time vector indexing & similarity search engine  
   👉 https://github.com/Annany2002/VectorSync
 
-- **Velox DB** – Experimental high-performance database internals  
-  👉 https://github.com/Annany2002/velox-db
-
----
-
-## Professional Experience
-
-**Junior Software Engineer — Definable AI**
-
-- Built and scaled AI microservices used in production  
-- Designed OCR → Markdown ingestion pipelines using PaddleOCR + LLMs  
-- Implemented Redis-backed worker coordination and GPU pooling  
-- Built agent-based systems with dynamic tool routing  
-- Developed real-time observability dashboards for AI agents  
-- Worked with multiple LLM providers (OpenAI, Anthropic, Google, etc.)
+- **Enclave** – A high performance key management service   
+  👉 https://github.com/Annany2002/Enclave
 
 ---
 
@@ -46,7 +33,7 @@ with a strong focus on performance, reliability, and real-world impact.
 **Backend & Systems**
 - Go, Python, Node.js
 - REST APIs, microservices, background jobs
-- Redis, PostgreSQL, MongoDB, SQLite
+- Redis, PostgreSQL, MongoDB, SQLite, Fastify
 - Concurrency, performance tuning, reliability
 
 **AI / LLM**
